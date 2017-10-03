@@ -4,11 +4,12 @@ Using Document Level Co-Occurrence Matrix to cluster similar words
 
 ## Document Level Co-Occurrence Matrix:
 
+### Starting with an Example
 Let us consider 2 Documents:
 * **Content of Document 1**: I like to design and paint
 * **Contents of Document 2**: I like to code
 
-## Resulting Co-Occurrence Matrix:
+**Resulting Co-Occurrence Matrix:**
 
 | ... | I | like | to | design | and | paint | code |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,13 +23,12 @@ Let us consider 2 Documents:
 
 **Intuition**: I and like occur together in 2 documents while I and design occur together in 1 document.
 
+## Result for Database Used
+
 The projection of the co-occurrence matrix for a subset of the datasbase on a 2 Dimensional Plane is as follows:
 
 **Printing Text**
-
-
-
-
+![alt text](https://raw.githubusercontent.com/shubhi-sareen/Clustering-Similar-Words/blob/master/words.png)
 **Printing Words as Dots**
 
 
