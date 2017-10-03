@@ -1,0 +1,360 @@
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5544" NEWID="1">
+<DATE>26-FEB-1987 15:01:01.79</DATE>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES><D>el-salvador</D><D>usa</D><D>uruguay</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0704&#31;reute
+u f BC-BAHIA-COCOA-REVIEW   02-26 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAHIA COCOA REVIEW</TITLE>
+<DATELINE>    SALVADOR, Feb 26 - </DATELINE><BODY>Showers continued throughout the week in
+the Bahia cocoa zone, alleviating the drought since early
+January and improving prospects for the coming temporao,
+although normal humidity levels have not been restored,
+Comissaria Smith said in its weekly review.
+    The dry period means the temporao will be late this year.
+    Arrivals for the week ended February 22 were 155,221 bags
+of 60 kilos making a cumulative total for the season of 5.93
+mln against 5.81 at the same stage last year. Again it seems
+that cocoa delivered earlier on consignment was included in the
+arrivals figures.
+    Comissaria Smith said there is still some doubt as to how
+much old crop cocoa is still available as harvesting has
+practically come to an end. With total Bahia crop estimates
+around 6.4 mln bags and sales standing at almost 6.2 mln there
+are a few hundred thousand bags still in the hands of farmers,
+middlemen, exporters and processors.
+    There are doubts as to how much of this cocoa would be fit
+for export as shippers are now experiencing dificulties in
+obtaining +Bahia superior+ certificates.
+    In view of the lower quality over recent weeks farmers have
+sold a good part of their cocoa held on consignment.
+    Comissaria Smith said spot bean prices rose to 340 to 350
+cruzados per arroba of 15 kilos.
+    Bean shippers were reluctant to offer nearby shipment and
+only limited sales were booked for March shipment at 1,750 to
+1,780 dlrs per tonne to ports to be named.
+    New crop sales were also light and all to open ports with
+June/July going at 1,850 and 1,880 dlrs and at 35 and 45 dlrs
+under New York july, Aug/Sept at 1,870, 1,875 and 1,880 dlrs
+per tonne FOB.
+    Routine sales of butter were made. March/April sold at
+4,340, 4,345 and 4,350 dlrs.
+    April/May butter went at 2.27 times New York May, June/July
+at 4,400 and 4,415 dlrs, Aug/Sept at 4,351 to 4,450 dlrs and at
+2.27 and 2.28 times New York Sept and Oct/Dec at 4,480 dlrs and
+2.27 times New York Dec, Comissaria Smith said.
+    Destinations were the U.S., Covertible currency areas,
+Uruguay and open ports.
+    Cake sales were registered at 785 to 995 dlrs for
+March/April, 785 dlrs for May, 753 dlrs for Aug and 0.39 times
+New York Dec for Oct/Dec.
+    Buyers were the U.S., Argentina, Uruguay and convertible
+currency areas.
+    Liquor sales were limited with March/April selling at 2,325
+and 2,380 dlrs, June/July at 2,375 dlrs and at 1.25 times New
+York July, Aug/Sept at 2,400 dlrs and at 1.25 times New York
+Sept and Oct/Dec at 1.25 times New York Dec, Comissaria Smith
+said.
+    Total Bahia sales are currently estimated at 6.13 mln bags
+against the 1986/87 crop and 1.06 mln bags against the 1987/88
+crop.
+    Final figures for the period to February 28 are expected to
+be published by the Brazilian Cocoa Trade Commission after
+carnival which ends midday on February 27.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12458" NEWID="275">
+<DATE> 2-MAR-1987 01:28:24.65</DATE>
+<TOPICS><D>tea</D><D>cocoa</D><D>coffee</D></TOPICS>
+<PLACES><D>indonesia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T C
+&#22;&#22;&#1;f0611&#31;reute
+u f BC-INDONESIAN-TEA,-COCOA   03-02 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDONESIAN TEA, COCOA EXPORTS SEEN UP, COFFEE DOWN</TITLE>
+<DATELINE>    JAKARTA, March 2 - </DATELINE><BODY>Indonesia's exports of tea and cocoa
+will continue to rise in calendar 1987 but coffee exports are
+forecast to dip slightly in 1987/88 (April-March) as the
+government tries to improve quality, the U.S. Embassy said.
+    The embassy's annual report on Indonesian agriculture
+forecast coffee output in 1986/87 would be 5.77 mln bags of 60
+kilograms each. That is slightly less than the 5.8 mln bags
+produced in 1985/86.
+    In 1987/88 coffee production is forecast to rise again to
+5.8 mln bags, but exports to dip to 4.8 mln from around 5.0 mln
+in 1986/87. Exports in 1985/86 were 4.67 mln bags.
+    The embassy report says coffee stocks will rise to 1.3 mln
+tonnes in 1987/88 from 1.15 mln in 1986/87. It bases this on a
+fall in exports as a result of the "probable" re-introduction of
+quotas by the International Coffee Organisation.
+    Cocoa production and exports are forecast to rise steadily
+as the government develops cocoa plantations. Production of
+cocoa in Indonesia increased to 32,378 tonnes in calendar 1985
+from 10,284 tonnes in 1980. It is projected by the government
+to rise to more than 50,000 tonnes by 1988.
+    Production in 1986 is estimated by the embassy at 35,000
+tonnes, as against 38,000 tonnes in 1987.
+    The report forecasts cocoa exports to rise to 35,000 tonnes
+this year, from 33,000 tonnes in 1986 and 31,000 in 1985.
+    The Netherlands is at present the biggest importer of
+Indonesian cocoa beans.
+    The report forecasts that in calendar 1987, Indonesia's CTC
+(crushed, torn and curled) tea exports will increase
+significantly with the coming on stream of at least eight new
+CTC processing plants.
+    Indonesia plans to diversify its tea products by producing
+more CTC tea, the main component of tea bags.
+    Production of black and green teas is forecast in the
+embassy report to rise to 125,000 tonnes in calendar 1987 from
+123,000 tonnes in 1986.
+    Exports of these teas are likely to rise to 95,000 tonnes
+in 1987 from 85,000 in 1986 and around 90,000 in 1985.
+    The embassy noted the ministry of trade tightened quality
+controls on tea in October 1986 in an effort to become more
+competititve in the world market.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12485" NEWID="302">
+<DATE> 2-MAR-1987 04:45:57.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0812&#31;reute
+b f BC-WALLENBERGS-FIGHT-BID   03-02 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALLENBERGS FIGHT BID FOR SWEDISH MATCH STAKE</TITLE>
+<DATELINE>    STOCKHOLM, March 2 - </DATELINE><BODY>Sweden's Wallenberg group fought back
+a bid by the London-based Swedish financier Erik Penser to
+secure a large stake in Swedish Match &lt;SMBS ST>, one of the
+companies at the core of their business empire.
+    A statement issued by the Wallenberg holding companies AB
+Investor and Forvaltnings AB Providentia said they had taken
+over an option held by Nobel Industrier Sweden AB to acquire 33
+pct of the voting rights in Swedish Match.
+    Thre Wallenbergs paid Nobel Industrier &lt;NOBL ST>, in which
+Penser group has a 72 pct stake, about 20 pct over the market
+price for the Swedish Match option, the statement said.
+    Swedish Match's B shares open to foreign buyers closed at
+424 crowns on Friday. The A shares -- with increased voting
+rights -- closed at 450 crowns for the restricted and 455 for
+the free shares.
+    The statement said the deal increased Investor's stake to
+49.4 pct of the voting rights and 14.8 pct of the share capital
+while Providentia is left holding 34.1 pct of the voting rights
+and 14.5 pct of the share capital in Swedish Match.
+    The Wallenbergs' stake in Swedish Match had previously
+amounted to 52 pct of the voting rights in the company.
+    The Swedish Match deal will cost the Wallenbergs about 400
+mln crowns, share analysts said, making it one of the most
+expensise moves the group has undertaken in the last four years
+to defend its far-flung interests from outside predators.
+    The Wallenbergs originally sold Nobel Industrier, an arms
+and chemicals group, to Penser in 1984 to pay for buying Volvo
+&lt;VOLV ST> out of two other key group companies, Atlas Copco
+&lt;ASTS ST> and Stora Koppabergs &lt;SKPS ST>.
+    Since then, the Wallenbergs were ousted as the largest
+shareholders in SKF (SKFR ST> by Skanska AB &lt;SKBS ST> and
+Frederik Lundberg wrested control of Incentive AB from them.
+    Lundberg, a Zurich-based Swedish property tycoon, also
+managed to acquire a 25 pct stake in another Wallenberg
+company, the diary equipment firm Alfa -Laval AB &lt;ALFS ST>.
+    During 1986, the Wallenbergs have been concentrating on
+building up their stake in Investor and Providentia to prevent
+any raid on the heart of their business empire.
+    But analysts say the Wallenbergs' position in the
+electrical engineering firm ASEA AB &lt;ASEA ST> is also too small
+at 12.6 pct of the voting rights and there has been growing
+speculation that the group will be forced to sell off fringe
+interests to protect its core activities.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12498" NEWID="315">
+<DATE> 2-MAR-1987 05:48:46.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0923&#31;reute
+u f BC-SALE-TILNEY-BUYS-STAK   03-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SALE TILNEY BUYS STAKE IN U.S. INSURANCE BROKER</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>&lt;Sale Tilney Plc> said it has purchased
+80 pct of the ordinary share capital of &lt;B and R International
+Inc.>, a U.S. Insurance broker, for 5.6 mln dlrs.
+    Sale is paying 3.6 mln dlrs in cash on completion, with the
+balance plus interest to be paid in equal instalments over the
+next six years.
+    B and R posted pretax profit of 855,000 dlrs in the year to
+Dec 31, 1986 when it had net tangible assets of 563,000 dlrs.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12559" NEWID="377">
+<DATE> 2-MAR-1987 08:42:00.68</DATE>
+<TOPICS><D>alum</D></TOPICS>
+<PLACES><D>west-germany</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F C M
+&#22;&#22;&#1;f0360&#31;reute
+u f BC-ALCAN-TO-CLOSE-WEST-G   03-02 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALCAN TO CLOSE WEST GERMAN ALUMINIUM SMELTER</TITLE>
+<DATELINE>    ESCHBORN, West Germany, March 2 - </DATELINE><BODY>&lt;Alcan Aluminiumwerke
+GmbH>, a subsidiary of Alcan Aluminium Ltd &lt;AL.N> of Canada,
+said it plans to close its aluminium smelter in Ludwigshafen at
+the end of June.
+    A spokesman said Alcan was closing the smelter, with annual
+capacity of 44,000 tonnes and 320 employees, because of high
+electricity costs and the low world market price of aluminium.
+    Alkan had said earlier this year it would close half the
+plant's capacity but decided to shut down completely when talks
+with potential cooperation partners failed, the spokesman said.
+He declined to name the other companies involved in the talks.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16241" NEWID="921">
+<DATE> 3-MAR-1987 05:35:46.12</DATE>
+<TOPICS><D>earn</D><D>alum</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0799&#31;reute
+u f BC-COMALCO-SAYS-LOWER-CO   03-03 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMALCO SAYS LOWER COSTS HELPED RETURN TO PROFITS</TITLE>
+<DATELINE>    MELBOURNE, March 3 - </DATELINE><BODY>Comalco Ltd &lt;CMAC.S> said its return
+to profit reflected reduced costs, improved primary aluminium
+prices and its withdrawal from a Japanese smelter venture.
+    It said the earlier reported 57.1 mln dlr profit for the
+year ended December 31 against a 69.13 mln dlr loss in 1985 was
+also aided by lower interest rates on U.S. Dollar debt and
+greater sales of bauxite and aluminium.
+    Comalco said it expected to pay at least a four cents per
+share final, dividend delayed until July 1 to take advantage of
+proposed dividend imputation laws.
+    This would make five cents for the year against a first and
+final of one cent in 1985.
+    Comalco said the aluminium industry continued to suffer
+from low prices and excess capacity, though the weak Australian
+dollar had helped earnings.
+    Withdrawal from the &lt;Showa Aluminium Industries KK> joint
+venture had been recapitalised in expansion by the &lt;New Zealand
+Aluminium Smelters Ltd> project with Japan's &lt;Sumitomo
+Aluminium Smelting Co Ltd>, permitting repayments and increases
+in liquid funds totalling 165 mln dlrs, it said.
+    As previously reported Comalco's &lt;Commonwealth Aluminium
+Corp> unit has conditionally agreed to sell its smelter at
+Goldendale, Washington, and port facilities at Portland, Oregon
+to &lt;Columbia Aluminium Corp>.
+    Comalco said it had made a 27.3 mln dlr extraordinary
+provision for Goldendale losses and closure costs but that if
+the sales agreement were completed it would reduce the
+provision made in the 1986 accounts.
+    The other items in the total extraordinary loss of 140.5
+mln dlrs were a 102.9 mln write-off of unrealised exchange
+losses and 10.3 mln for an increase in future tax provision.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5548" NEWID="5">
+<DATE>26-FEB-1987 15:10:44.60</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D><D>barley</D><D>oat</D><D>sorghum</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0738&#31;reute
+u f BC-average-prices   02-26 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE</TITLE>
+<DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>The U.S. Agriculture Department
+reported the farmer-owned reserve national five-day average
+price through February 25 as follows (Dlrs/Bu-Sorghum Cwt) -
+         Natl   Loan           Release   Call
+         Avge   Rate-X  Level    Price  Price
+ Wheat   2.55   2.40       IV     4.65     --
+                            V     4.65     --
+                           VI     4.45     --
+ Corn    1.35   1.92       IV     3.15   3.15
+                            V     3.25     --
+ X - 1986 Rates.
+
+          Natl   Loan          Release   Call
+          Avge   Rate-X  Level   Price  Price
+ Oats     1.24   0.99        V    1.65    -- 
+ Barley   n.a.   1.56       IV    2.55   2.55
+                             V    2.65    -- 
+ Sorghum  2.34   3.25-Y     IV    5.36   5.36
+                             V    5.54    -- 
+    Reserves I, II and III have matured. Level IV reflects
+grain entered after Oct 6, 1981 for feedgrain and after July
+23, 1981 for wheat. Level V wheat/barley after 5/14/82,
+corn/sorghum after 7/1/82. Level VI covers wheat entered after
+January 19, 1984.  X-1986 rates. Y-dlrs per CWT (100 lbs).
+n.a.-not available.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12578" NEWID="395">
+<DATE> 2-MAR-1987 09:19:23.20</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D><D>barley</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0465&#31;reute
+u f BC-FRENCH-ESTIMATED-86/8   03-02 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH ESTIMATE 86/87 WHEAT DELIVERIES UNCHANGED</TITLE>
+<DATELINE>    PARIS, March 2 - </DATELINE><BODY>The French Cereals Intervention Board,
+ONIC, left its estimate of French 1986/87 (July/June) soft
+wheat deliveries unchanged from its last forecast at 21.98 mln
+tonnes.
+    This compared with deliveries of 24.38 mln tonnes in
+1985/86 (August/July).
+    Estimated 1986/87 maize deliveries were also left unchanged
+from ONIC's previous forecast at the beginning of February at
+9.91 mln tonnes against 10.77 mln the previous season.
+    Barley deliveries were also unchanged at 6.62 mln tonnes
+against 7.7 mln in 1985/86.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
