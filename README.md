@@ -27,8 +27,7 @@ Let us consider 2 Documents:
 
 The projection of the co-occurrence matrix for a subset of the datasbase on a 2 Dimensional Plane is as follows:
 
-**Printing Text**
-![alt text](https://raw.githubusercontent.com/shubhi-sareen/Clustering-Similar-Words/blob/master/words.png)
+![alt text](https://shubhi-sareen.github.io/Clustering-Similar-Words/word.png "Text Projection in 2-D")
 **Printing Words as Dots**
 
 
