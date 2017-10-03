@@ -12,69 +12,15 @@ Contents of Document 2: I like to code
 Resulting Co-Occurrence Matrix:
 
 
-I
-like
-to 
-design 
-and
-paint
-code
-I
-0
-2
-2
-1
-1
-1
-1
-like
-2
-0
-2
-1
-1
-1
-1
-to
-2
-2
-0
-1
-1
-1
-1
-design
-1
-1
-1
-0
-1
-1
-0
-and
-1
-1
-1
-1
-0
-1
-0
-paint
-1
-1
-1
-1
-1
-0
-0
-code
-1
-1
-1
-0
-0
-0
-0
+| ... | I | like | to | design | and | paint | code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| I | 0 | 2 | 2 | 1 | 1 | 1 | 1 |
+| like | 2 | 0 | 2 | 1 | 1 | 1 | 1 |
+| to | 2 | 2 | 0 | 1 | 1 | 1 | 1 |
+| design | 1 | 1 | 1 | 0 | 1 | 1 | 1 |
+| and | 1 | 1 | 1 | 1 | 0 | 1 | 1 |
+| paint | 1 | 1 | 1 | 1 | 1 | 0 | 1 |
+| code | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 
 Intuition: I and like occur together in 2 documents while I and design occur together in 1 document.
 
