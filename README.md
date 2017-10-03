@@ -1,5 +1,5 @@
 ﻿# Clustering-Similar-Words
-Using Document Level Co-Occurrence Matrix to cluster similar words
+Using Document Level Co-Occurrence Matrix to determine similar words
 
 ## Document Level Co-Occurrence Matrix:
 
@@ -27,10 +27,10 @@ Let us consider 2 Documents:
 The projection of the co-occurrence matrix for a subset of the datasbase on a 2 Dimensional Plane is as follows:
 
 **Projecting Words:**
-![alt text](https://github.com/shubhi-sareen/Clustering-Similar-Words/blob/master/img/words.jpg "Word Projection in 2-D")
+![alt text](https://github.com/shubhi-sareen/Determining-Similarity-Among-Words/blob/master/img/words.jpg "Word Projection in 2-D")
 
 **Projecting Words as Dots:**
-![alt text](https://github.com/shubhi-sareen/Clustering-Similar-Words/blob/master/img/dots.jpg "Words Projected as Dots in 2-D")
+![alt text](https://github.com/shubhi-sareen/Determining-Similarity-Among-Words/blob/master/img/dots.jpg "Words Projected as Dots in 2-D")
 
 
 **A few examples of words which cluster together:**
