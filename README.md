@@ -1,10 +1,9 @@
 ﻿# Clustering-Similar-Words
-Dataset used: Reuters-21578, Distribution 1.0
 Using Document Level Co-Occurrence Matrix to cluster similar words
 
 ## Document Level Co-Occurrence Matrix:
 
-### Starting with an Example
+### Starting with an Example:
 Let us consider 2 Documents:
 * **Content of Document 1**: I like to design and paint
 * **Contents of Document 2**: I like to code
@@ -27,12 +26,11 @@ Let us consider 2 Documents:
 
 The projection of the co-occurrence matrix for a subset of the datasbase on a 2 Dimensional Plane is as follows:
 
-**Projecting Words**
+**Projecting Words:**
 ![alt text](https://github.com/shubhi-sareen/Clustering-Similar-Words/blob/master/img/words.jpg "Word Projection in 2-D")
 
-**Projecting Words as Dots**
+**Projecting Words as Dots:**
 ![alt text](https://github.com/shubhi-sareen/Clustering-Similar-Words/blob/master/img/dots.jpg "Words Projected as Dots in 2-D")
-
 
 
 **A few examples of words which cluster together:**
@@ -41,3 +39,6 @@ The projection of the co-occurrence matrix for a subset of the datasbase on a 2 
 * Words like employees, purchased, insurance, company cluster together.
 
 The clustered words represent **possible topics** in the underlying documents and it also in accordance with the pre-defined topics. Therefore this approach can be used to extract topics from underlying documents.
+
+
+Dataset used: Reuters-21578, Distribution 1.0
