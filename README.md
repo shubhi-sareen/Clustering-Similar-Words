@@ -1,4 +1,4 @@
-﻿# Clustering-Similar-Words
+﻿# Determining-Similarity-Among-Words
 Using Document Level Co-Occurrence Matrix to determine similar words
 
 ## Document Level Co-Occurrence Matrix:
